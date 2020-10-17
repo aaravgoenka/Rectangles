@@ -1,1 +1,1 @@
-# Rectangles
+# Box Class
